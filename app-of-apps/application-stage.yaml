@@ -9,7 +9,7 @@ spec:
   source:
     path: ./components/sbom-eyecatcher-test/overlays/stage
     repoURL: https://github.com/tnevrlka-rhtap/sbom-eyecatcher-test-gitops.git
-    targetRevision: main
+    targetRevision: tnevrlka-patch-1
   destination:
     namespace: rhtap-app-stage
     server: https://kubernetes.default.svc
