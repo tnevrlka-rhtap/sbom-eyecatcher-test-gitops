@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/dance-bootstrap-app:latest
+      - image: quay.io/tnevrlka-rhtap/sbom-eyecatcher-test:e639803accb92f2ee51bf6a8b5d9ff9b3ec1ca4b
         name: container-image  
